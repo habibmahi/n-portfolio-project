@@ -104,5 +104,10 @@ line-height: 30px; /* 166.667% */
     background: #FFF8F3;
     margin: 130px 0px;
 }
+main{
+    max-width: 1140px;
+    margin: auto;
+
+}
 
     
