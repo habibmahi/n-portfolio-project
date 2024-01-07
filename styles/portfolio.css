@@ -106,6 +106,7 @@ line-height: 30px; /* 166.667% */
 }
 main{
     max-width: 1140px;
+    max-height: 550px;
     margin:0 auto;
 
 }
