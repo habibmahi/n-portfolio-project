@@ -4,6 +4,7 @@ nav {
     align-items: center;
 }
 body{
+    font-family: 'Lato', sans-serif;
     font-family: 'Open Sans', sans-serif;
     
 }
@@ -12,10 +13,12 @@ body{
 }
 .nav-title{
     color: var(--Dark-01, #181818);
-
     font-size: 45px;
-
-    font-weight: 800;
+     font-weight: 800;
+}
+nav>ul {
+    display: flex;
+    align-items: center;
 }
 nav li{
     list-style: none;
@@ -26,6 +29,7 @@ nav a{
     color: var(--Dark-02, #474747);;
 
 }
+
 .btn-primary{
     color: var(--White-Color, #FFF);
     border-radius: 5px;
@@ -33,10 +37,13 @@ nav a{
     border: 0px;
     font-size: 20px;
     font-weight: 700;
-    padding: 15px 35px ;
-
-
+    padding: 15px 35px;
+}
+/*headeerr related styles*/
+.header{
+    background-color: white;
 
 }
+
 
     
