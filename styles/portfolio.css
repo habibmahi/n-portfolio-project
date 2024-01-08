@@ -40,6 +40,25 @@ nav a{
     font-size: 20px;
     font-weight: 700;
     padding: 15px 35px;
+    margin-right: 20px;
+    justify-content: space-between;
+}
+#pk{
+    border-radius: 5px;
+border: 1px solid #FD6E0A;
+width: 160px;
+height: 64px;
+flex-shrink: 0;
+color: #FD6E0A;
+
+text-align: center;
+font-family: Open Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-left: 25px;
+
 }
 /*headeerr related styles*/
 .header{
@@ -147,6 +166,10 @@ main section{
     
 
 
+}
+.resume-container{
+    display: flex;
+    gap:55px;
 }
 
     
